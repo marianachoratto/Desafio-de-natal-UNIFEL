@@ -1,0 +1,19 @@
+body{
+    background-image: url('images/background-mages.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100vw;
+    height: 100vh;
+}
+
+article{
+    width: 75%;
+    text-align: justify;
+    line-height: 2rem;
+    font-weight: 1rem;
+    padding: 30px 50px 60px 50px;
+}
+
+p{
+    text-indent: 30px;
+}
