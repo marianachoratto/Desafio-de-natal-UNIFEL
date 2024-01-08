@@ -39,7 +39,8 @@ header>div>h1{
 main{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
+    gap: 15px;
 }
 
 
