@@ -17,3 +17,11 @@ article{
 p{
     text-indent: 30px;
 }
+
+footer>p>a{
+    text-decoration: none;
+}
+
+footer>p>a:hover{
+    text-decoration: underline;
+}
